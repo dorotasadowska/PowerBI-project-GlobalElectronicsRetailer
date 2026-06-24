@@ -15,6 +15,6 @@ Key insights:
 
 Tech used in project: Power BI, DAX, Power Query, data source
 
-Project was done in cooperation with Anna Irek and was a final assignment of postgraduate studies
+Project was done in cooperation with Anna Irek and was a final assignment of postgraduate studies: BI analysis at Warsaw University in cooperation of LabMasters
 
 How to use: download the .pbix file and open in Power BI Desktop
